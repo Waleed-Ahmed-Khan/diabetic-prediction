@@ -14,6 +14,8 @@ st.title("Upload CSV File")
 # File uploader
 uploaded_file = st.file_uploader("Choose a CSV file", type=["csv"])
 
+st.markdown("If you dont have proper file or dont know about it please download it from kaggle by following link and then uplaod it after upload your fill will process otherwise encounter errors...!!!")
+
 if uploaded_file is not None:
     # Get the current date and time
     current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
