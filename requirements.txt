@@ -1,4 +1,6 @@
 streamlit
+streamlit_option_menu
+tensorflow
 pandas
 numpy
 scikit-learn
