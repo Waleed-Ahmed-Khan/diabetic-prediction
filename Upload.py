@@ -482,11 +482,11 @@ elif page =='Prediction':
         # Display the prediction result
         if prediction == 1:
             st.write("This model predicts that the person **has diabetes**.")
-            st.write(prediction)
+           
             
         else:
             st.write("This model predicts that the person **does not have diabetes**.")
-            st.write(prediction)
+            
             # Run the app
     if __name__ == "__main__":
       app()
