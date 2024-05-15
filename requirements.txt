@@ -9,7 +9,6 @@ seaborn
 joblib
 tensorflow
 keras
-streamlit_option_menu
 os
 glob
 datetime
