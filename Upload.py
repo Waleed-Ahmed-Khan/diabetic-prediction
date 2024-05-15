@@ -22,7 +22,7 @@ import seaborn as sns
 
 
 page =om("Diabetic Prediction System",["Uploads", "EDA", "ML", "Prediction"], icons=['shift', 'bi-pie-chart', 'puzzle', 'speedometer2'], menu_icon='tropical-storm', default_index =0, orientation='horizontal')
-page
+
    
 
 if page== 'Uploads':
