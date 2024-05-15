@@ -37,7 +37,7 @@ if page== 'Uploads':
     # File uploader
     uploaded_file = st.file_uploader("Choose a CSV file", type=["csv"])
      
-    st.markdown("If you dont have proper file or dont know about it please download it from kaggle by following link and then uplaod it after upload your fill will process otherwise encounter errors...!!!")
+    st.markdown("If you dont have proper file or dont know about it please download it from kaggle by following link and then uplaod it after upload your file will process...")
    
     st.markdown("https://www.kaggle.com/datasets/mathchi/diabetes-data-set")
     st.markdown("Move to the EDA and other options if you dont want to uploda your data as there is already pre upload data processed.")
