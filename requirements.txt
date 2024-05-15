@@ -8,7 +8,5 @@ openpyxl
 seaborn
 joblib
 tensorflow
-keras
 os
-glob
 datetime
