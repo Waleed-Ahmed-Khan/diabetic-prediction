@@ -15,6 +15,7 @@ Welcome to the Diabetic Prediction System by Waleed Ahmed! This system is design
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Need Any Help](#help)
 
 ## Introduction <a name="introduction"></a>
 
@@ -85,3 +86,9 @@ Contributions to the Diabetic Prediction System are welcome! If you have any sug
 ## License <a name="license"></a>
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Need Any Helo <a name="help"></a>
+
+if you need any help regarding code and want to make progress in it you are welcome to contact me at my [email](waleedahmed20997@gmail.com). for more understnading here is the link of the application i am hosting from streamlit application host, click on the following link.
+[Diabetic Prediction System by Waleed Ahmed](https://diabetic-prediction-fyqccappixupus69pzo8pdz.streamlit.app/).
+Thanks me Later.
