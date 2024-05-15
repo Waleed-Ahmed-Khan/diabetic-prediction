@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-page =om("Select Option",["Uploads", "EDA", "ML", "Prediction",], icons=['download', 'bi-pie-chart', 'puzzle', 'speedometer2'], menu_icon='cast', default_index =0, orientation='horizontal')
+page =om("Select Option",["Uploads", "EDA", "ML", "Prediction",], icons=['shift', 'bi-pie-chart', 'puzzle', 'speedometer2'], menu_icon='cast', default_index =0, orientation='horizontal')
 page
    
 
